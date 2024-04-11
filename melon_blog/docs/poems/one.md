@@ -6,8 +6,9 @@
 会把我带向
 下一个好日子
 </p>
-
-<img src="https://wx2.sinaimg.cn/mw690/006UfHZsgy1hohgfii6f1j31qe2qvhdt.jpg" width=100 height=100 style="float:center" />
+<div align=center>
+<img src="https://s21.ax1x.com/2024/04/11/pFXts3j.jpg" width=100 height=100 style="float:center" />
+</div>
 
 ***
 
@@ -19,5 +20,6 @@
 给亲历一切痛楚的自己
 写感谢信
 </p>
-
-<img src="./pics/letter.jpg" width=100 height=100 style="float:center"/>
+<div align=center>
+<img src="https://s21.ax1x.com/2024/04/11/pFXt6vn.jpg" width=100 height=100 style="float:center"/>
+</div>
