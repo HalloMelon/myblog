@@ -1,2 +1,5 @@
 site_name: Blog of Melon
-
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
