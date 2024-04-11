@@ -1,5 +1,8 @@
-site_name: Blog of Melon
+site_name: Welcome to wonderland
 theme: material
 nav:
     - 主页: index.md
     - 关于: aboutme.md
+    - 读点诗歌:
+      - 一天中我清醒三次: poems/one.md
+      - 大树日记: poems/two.md
