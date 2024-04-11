@@ -6,7 +6,7 @@
 疼，正式成为外星人的方言
 我躺在床上毁灭一切
 捂着，不让人发现
-<img src="melon_blog/pics/menalgia.jpg" width=100 height=100/>
+<img src="../../pics/menalgia.jpg" width=100 height=100/>
 
 森林没有性别
 女性不是一朵花
@@ -19,4 +19,4 @@
 这座森林什么树都有
 艺术家、科学家、工人和邻居
 没有性别
-<img src="melon_blog/pics/forest.jpg" width=100 height=100/>
+<img src="../../pics/forest.jpg" width=100 height=100/>
