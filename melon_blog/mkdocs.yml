@@ -1,8 +1,8 @@
-site_name: Welcome to wonderland
+site_name: wonderland
 theme: material
 nav:
     - 主页: index.md
-    - 关于: aboutme.md
-    - 读点诗歌:
+    - 学点: tech.md
+    - 读点:
       - 一天中我清醒三次: poems/one.md
-      - 大树日记: poems/two.md
+      - 星期六晚上去散步: poems/two.md
